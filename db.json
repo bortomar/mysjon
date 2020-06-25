@@ -1,6 +1,6 @@
 {
   "users": [
-    { "username": "foo@test.com", "password": "foopas", name: "Foo Name" },
-    { "username": "bar@test.com", "password": "barpas", name: "Foo Name" } 
+    { "username": "foo@test.com", "password": "foopas", "name": "Foo Name" },
+    { "username": "bar@test.com", "password": "barpas", "name": "Foo Name" } 
   ]
 }
